@@ -1,0 +1,242 @@
+curl 'https://intercelestial.com/the-permanent-watch-of-the-sky/' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'Origin: https://intercelestial.com' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Referer: https://intercelestial.com/' \
+  --data-raw '_wpnonce=a5321912da&_wp_http_referer=%2F&userid=8129' \
+  --compressed
+  curl 'https://bidder.criteo.com/cdb?ptv=109&profileId=185&av=32&wv=3.27.1&cb=51807336185' \
+  -H 'authority: bidder.criteo.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain' \
+  -H 'accept: */*' \
+  -H 'origin: https://intercelestial.com' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://intercelestial.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: uid3pd=088f2bcc-83e2-4e89-9fbb-17e223d9dd72' \
+  --data-raw '{"publisher":{"url":"https://intercelestial.com/"},"slots":[{"slotid":"f59ac1970cdd4a2c853d04896e06a720","impid":"fuse-slot-21984051004-1","zoneid":"1486321","transactionid":"689e2862-a46e-4e4a-832e-fa2ddd5fc7d2","publishersubid":"21984051004_1486321_300x250","sizes":["336x280","300x250"],"position":{"top":2718.5,"left":15}},{"slotid":"15be4348265843b0aba1df848302d51c","impid":"fuse-slot-21984051004-1","zoneid":"1486323","transactionid":"689e2862-a46e-4e4a-832e-fa2ddd5fc7d2","publishersubid":"21984051004_1486323_336x280","sizes":["336x280","300x250"],"position":{"top":2718.5,"left":15}}],"user":{"ext":{"data":{"contentLanguage":"en-US","navigatorLanguage":"en-US","orientation":"landscape-primary","windowInnerWidth":643,"windowInnerHeight":459,"pageWidth":728,"pageHeight":5316,"sessionDuration":32829.63000002201},"device":{"w":1728,"h":720}}},"gdprConsent":{"consentData":"CPI7VhAPI7VhAAKAfAENBhCsAP_AAH_AAAwIIBtf_X__bX9j-_59f_t0eY1P9_r_v-Qzjhfdt-8N2L_W_L0X42E7NF3apq4KuR4Eu3LBIQNlHMHUTUmw6okVrzPsak2Mr7NKJ7LEmnMZe2dYGHtfn91TuZKY7_78_9fz3z-v_v___9f3r-3_3__59X---_e_V399zLv9_____9nN_4IAgEmGpfABdiWODJtGlUKIEYVhIdAKACigGFomsIGBwU7KwCPUELABCagIwIgQYgoxYBAAIBAEhEQEgB4IBEARAIAAQAqQEIACJgEFgBYGAQACgGhYgRQBCBIQZHBUcpgQESLRQT2VgCUXexphCGUWAFAo_oqMBEoQQLAyEhYOY4AgAAAA.YAAAAAAAAAAA","gdprApplies":true,"version":2},"viewport":{"width":643,"height":459,"scrollTop":0,"scrollLeft":0},"tmax":1000,"auctionStart":1625591527070,"id":"b04b3813-dad3-4eef-95d5-8e6677d1b7f1"}' \
+  --compressed ;
+curl 'https://htlb.casalemedia.com/cygnus?s=504804&v=7.2&r=%7B%22id%22%3A%2227ec9427c6bc02e%22%2C%22imp%22%3A%5B%7B%22id%22%3A%2228525ec4a2d6ca9%22%2C%22ext%22%3A%7B%22siteID%22%3A%22504804%22%2C%22sid%22%3A%22300x250%22%7D%2C%22banner%22%3A%7B%22w%22%3A300%2C%22h%22%3A250%2C%22topframe%22%3A1%7D%7D%2C%7B%22id%22%3A%2229572685d3d8738%22%2C%22ext%22%3A%7B%22siteID%22%3A%22504804%22%2C%22sid%22%3A%22336x280%22%7D%2C%22banner%22%3A%7B%22w%22%3A336%2C%22h%22%3A280%2C%22topframe%22%3A1%7D%7D%5D%2C%22site%22%3A%7B%22page%22%3A%22https%3A%2F%2Fintercelestial.com%2F%22%7D%2C%22ext%22%3A%7B%22source%22%3A%22prebid%22%7D%2C%22regs%22%3A%7B%22ext%22%3A%7B%22gdpr%22%3A1%7D%7D%2C%22user%22%3A%7B%22ext%22%3A%7B%22consent%22%3A%22CPI7VhAPI7VhAAKAfAENBhCsAP_AAH_AAAwIIBtf_X__bX9j-_59f_t0eY1P9_r_v-Qzjhfdt-8N2L_W_L0X42E7NF3apq4KuR4Eu3LBIQNlHMHUTUmw6okVrzPsak2Mr7NKJ7LEmnMZe2dYGHtfn91TuZKY7_78_9fz3z-v_v___9f3r-3_3__59X---_e_V399zLv9_____9nN_4IAgEmGpfABdiWODJtGlUKIEYVhIdAKACigGFomsIGBwU7KwCPUELABCagIwIgQYgoxYBAAIBAEhEQEgB4IBEARAIAAQAqQEIACJgEFgBYGAQACgGhYgRQBCBIQZHBUcpgQESLRQT2VgCUXexphCGUWAFAo_oqMBEoQQLAyEhYOY4AgAAAA.YAAAAAAAAAAA%22%7D%7D%7D&ac=j&sd=1' \
+  -H 'authority: htlb.casalemedia.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain' \
+  -H 'accept: */*' \
+  -H 'origin: https://intercelestial.com' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://intercelestial.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: CMID=YNgn27aOQhfh7YQWiETC5AAA; CMPS=866; CMPRO=861; CMDD=AAez5AQAA6OcAw**; CMST=YOSKAmDkjtUF; CMRUM3=2960e48a08276063333250-de7a-11eb-bacd-3b1751501cf8&3960e1979627602018245957662500360&b060e48c6c05a00&5160e197a127609zMfM_M0HTLsYU1p92BWb_VlTDjsMB9q8DB0Ruc5&4160e48c6e05a0AQEI8R-t_hLo2AJS4grVAQEBAQE&0860e48ed105a00&dd60e48ed52760&6f60e1979527606747732606398206923&2860e19b1d2760200ca6ec-08a0-4e63-83f5-fddce632240b&ee60e19b242760&8360e19c65276018072662181081099099&1f60e197952760Q6780652101992026055&2d60e48a082760CAESENXE3ZptA27ldlHPCnON6ZE&bf60e19b1a276080d5c92f-0f09-d88d-61a96748&4960e48ed505a0&f160e48ed505a0&be60e197952760338421861949394104&9860e48ed327600bdc10f7-4fb8-4321-8cd2-ef1c0e4a8222&0a60e19b2e2760589983871153&5a60e197a22760A2C67252A3ED4B75AAEA5F960A0713A7&ce60e48ed505a0&0d60e48c77276006662005328563ad740bbbae&7b60da04e02760uM4ZdNJUSWZOxegBF-CWBXXYE8c&4060e197a3276078853c19-9ed1-4e45-8f31-7519f401550c-60d8283b-494e&c460e19a95276004030003_60d828054e937&5860e48ed505a0&2e60e19b252760338421861949394104&2f60e199ff2760R19OY5Pw1LXpbl5&0360e197842760986460d8-27e7-4600-b181-c3d47b4e0c8b&6960e48a0905a00&6d60e19a93276030b2b129a9324ee29e47175284ab3657&e660e48ed52760&2760e48a0727604aa9a905-182f-49e2-a57d-8491f4571f05&bc60e48ed105a00&8260e197952760AAEIb07BsFAAADcNQRBeUQ&c360e19aa22760av-b38ffefc-ea3c-44b7-8960-802a42af22fb&9c60e48c6f2760ca21ee77-e78e-4094-aa41-a0199f83f5e0&da60e48ed52760&3360e197a2276037a44113-b51f-4d4c-8195-d5bb90b8abdf&0560e48ed105a00&0460e1978527603936177778747034881' \
+  --compressed ;
+curl 'https://ib.adnxs.com/ut/v3/prebid' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://intercelestial.com' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://intercelestial.com/' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  -H $'Cookie: uuid2=338421861949394104; uids=eyJ0ZW1wVUlEcyI6eyIzM2Fjcm9zcyI6eyJ1aWQiOiIxMTcwNzEwNjM5NzY0MzkiLCJleHBpcmVzIjoiMjAyMS0wOS0yNlQxNzoxNjoyM1oifSwiYWRmb3JtIjp7InVpZCI6IjY3NDc3MzI2MDYzOTgyMDY5MjMiLCJleHBpcmVzIjoiMjAyMS0xMC0wMlQxMToyNzo0NVoifSwiYWRtaXhlciI6eyJ1aWQiOiI3ZGM4ODJhZDY3MWI0NWM4OTVkMzc4YjAxNGRkODQwOSIsImV4cGlyZXMiOiIyMDIxLTA3LTEyVDE3OjE2OjE3LjM5MTk2MjUxM1oifSwiYWRueHMiOnsidWlkIjoiMzM4NDIxODYxOTQ5Mzk0MTA0IiwiZXhwaXJlcyI6IjIwMjEtMDctMTJUMTc6MTY6MTQuMTIyODkwMjczWiJ9LCJhZHRlbGxpZ2VudCI6eyJ1aWQiOiI1YzBjMDhiZTU4OGExOTJiIiwiZXhwaXJlcyI6IjIwMjEtMDktMjZUMTc6MTY6NDhaIn0sImFteCI6eyJ1aWQiOiJmN2I1Y2EwMi1hNjBiLTRkYTctODQ3ZS0wODZiNzg1MzI1NzciLCJleHBpcmVzIjoiMjAyMS0xMC0wMlQxMToyODoyNFoifSwiYmV0d2VlbiI6eyJ1aWQiOiI2YzdmODdiZi0yMjIyLTU0YjktYmQ4ZC0wNjE2ZGQ2YzlkMjUiLCJleHBpcmVzIjoiMjAyMS0wNy0xOFQxMToyNzo0OC4yNDY3NzQxOVoifSwiY29sb3NzdXMiOnsidWlkIjoiN2NjMDI5MDYtMjdhMS00ZmRjLWI5NjctNjZlNzBkYWEwNDZjIiwiZXhwaXJlcyI6IjIwMjEtMDctMThUMTE6Mjk6MjAuMjYyMzY0NzA1WiJ9LCJjb25zdW1hYmxlIjp7InVpZCI6InVlMS1zYjEtNDRmNzM5MzAtYmJiZi00NWEwLWI2NzUtM2JmODFiNzY1NzZjIiwiZXhwaXJlcyI6IjIwMjEtMDktMjZUMTc6MTY6MTVaIn0sImNvbnZlcnNhbnQiOnsidWlkIjoiQUFBR3BRLVVmcEhhT3dOdGRvODRBQUFBQUFBIiwiZXhwaXJlcyI6IjIwMjEtMTAtMDJUMTE6Mjg6MTdaIn0sImNwbXN0YXIiOnsidWlkIjoiOEJWcWNNTkhBSWdpNTBDRHhpaDcwIiwiZXhwaXJlcyI6IjIwMjEtMDctMTJUMTc6MTY6MzEuODg0MjEwMTQ5WiJ9LCJlcGxhbm5pbmciOnsidWlkIjoiQUt1dHRtbmpocUVsV1IwbCIsImV4cGlyZXMiOiIyMDIxLTEwLTAyVDExOjI4OjM0WiJ9LCJpeCI6eyJ1aWQiOiJZTmduMjdhT1FoZmg3WVFXaUVUQzVBQUElMjY4NjEiLCJleHBpcmVzIjoiMjAyMS0wOS0yNlQxNzoxNjoxNloifSwiaml4aWUiOnsidWlkIjoiZGY4ZTg4MjAtZGNiYS0xMWViLTk4ZjAtM2Y0ZTAwNzk5MmRhIiwiZXhwaXJlcyI6IjIwMjEtMDctMThUMTE6Mjc6NTMuODg5MzkwNDY5WiJ9LCJsdW5hbWVkaWEiOnsidWlkIjoiJFVJRCIsImV4cGlyZXMiOiIyMDIxLTA3LTE4VDExOjI3OjUxLjU1NzgwNzk2M1oifSwibWdpZCI6eyJ1aWQiOiJsNjRNMGJMWHFKczQiLCJleHBpcmVzIjoiMjAyMS0xMC0wMlQxMToyODo0OVoifSwib25ldGFnIjp7InVpZCI6ImFmSzBhd3lHRF9RUkhOdUl6S090eXFTTDNMUVNjUnJJZXlkQjZQeG9jOFkiLCJleHBpcmVzIjoiMjAyMS0xMC0wMlQxMToyOTozOFoifSwib3BlbngiOnsidWlkIjoiNjRjMWMzZjQtNGUzYi00NmU1LWIxMWMtYTYzZjljMjE3ZGVhIiwiZXhwaXJlcyI6IjIwMjEtMDktMjZUMTc6MTY6NDdaIn0sInB1Ym1hdGljIjp7InVpZCI6IkJDREIyNTdELUY1NTAtNEQ2My1BMDI3LTcwMkQwNUQ4MkZCMyIsImV4cGlyZXMiOiIyMDIxLTA5LTI2VDE3OjE2OjQ1WiJ9LCJyaHl0aG1vbmUiOnsidWlkIjoiUlgtNzU4OTE3YTYtOGJjYy00YTUwLWJjYTQtNjM1MDdhYTJhMjhjLTAwNCIsImV4cGlyZXMiOiIyMDIxLTEwLTAyVDExOjI4OjExWiJ9LCJzaGFyZXRocm91Z2giOnsidWlkIjoiZTExNWI0OWEtMjM3ZS00ZDg5LTlhZTUtMzg3NzU4NDE2ZTljIiwiZXhwaXJlcyI6IjIwMjEtMDktMjZUMTc6MTY6NTNaIn0sInNtYXJ0YWRzZXJ2ZXIiOnsidWlkIjoiMjY4NDU1ODAyOTk4MDk2NjYzNCIsImV4cGlyZXMiOiIyMDIxLTA5LTI2VDE3OjE2OjU2WiJ9LCJzbWlsZXdhbnRlZCI6eyJ1aWQiOiJjZjExZTVjZjkzZDk5MzRhNjFiZDQ2ZmEzMDYxMmQ0MiIsImV4cGlyZXMiOiIyMDIxLTA3LTEyVDE3OjE2OjE3LjEzMDQ4ODI4OFoifSwic292cm4iOnsidWlkIjoiNGU2YWU0ZjMwZjFlMjE4ZDVlNzU0ZTc0IiwiZXhwaXJlcyI6IjIwMjEtMTAtMDJUMTE6Mjc6NTZaIn0sInRhcHB4Ijp7InVpZCI6Ijg2OTI0OTAwNTkzMzQ3MTI4MjIiLCJleHBpcmVzIjoiMjAyMS0wNy0xMlQxNzoxNjozNy41MzE2Nzk2MThaIn0sInRyaXBsZWxpZnRfbmF0aXZlIjp7InVpZCI6IjE3MjQyNTY0MDUxOTE0ODA1NjM2IiwiZXhwaXJlcyI6IjIwMjEtMTAtMDJUMTE6MTI6MTRaIn0sInRydXN0eCI6eyJ1aWQiOiIzN2E0NDExMy1iNTFmLTRkNGMtODE5NS1kNWJiOTBiOGFiZGYiLCJleHBpcmVzIjoiMjAyMS0wNy0xOFQxMToyNzo0NC4zMzU5MjAyMTJaIn0sInZlcml6b25tZWRpYSI6eyJ1aWQiOiJ5LWg0UFZsZ0ZFMnVIRmtBWm9SZzdYRGdWZ2RkLnY1QS0tfkEiLCJleHBpcmVzIjoiMjAyMS0wOS0yNlQxNzoxNjoxOFoifSwidmlzeCI6eyJ1aWQiOiI3NjRmODNhZi0xNDViLTRmNDctODAwNy1iYmU3OGNjYzRmZDAiLCJleHBpcmVzIjoiMjAyMS0wOS0yNlQxNzoxNjo1MloifSwieWllbGRtbyI6eyJ1aWQiOiJnMTQ2MTZiZDU3YjQxMjdjODQwNCIsImV4cGlyZXMiOiIyMDIxLTEwLTAyVDExOjI3OjQ2WiJ9LCJ5aWVsZG9uZSI6eyJ1aWQiOiIyMTA0NTZiZi00M2VlLTQyNjUtYTU4ZS0zODA2YjI0NGRiYzYiLCJleHBpcmVzIjoiMjAyMS0wNy0xMlQxNzoxNjo1OC41OTk0MTk2MDNaIn0sInplcm9jbGlja2ZyYXVkIjp7InVpZCI6IkVjOVZMZ2hlUzZhSnpTbDh6SUowTVEtMjAxNTAxMTQiLCJleHBpcmVzIjoiMjAyMS0wNy0xMlQxNzoxNzowNS4yMjk1NDk1MzVaIn0sInNvbm9iaSI6eyJ1aWQiOiIyMmU4Mjk5Ni1iZjBhLTQwZDYtODAxMy1iMGIzMmUwMzhjYzgiLCJleHBpcmVzIjoiMjAyMS0xMC0wMlQxMToyOToyNFoifX0sImJkYXkiOiIyMDIxLTA2LTI4VDE3OjE2OjE0LjEyMjg4NzI0N1oifQ==; icu=ChgIzYVEEAoYDSANKA0wzJ2ShwY4BkANSA0KGAjlvGwQChgCIAIoAjCXm5KHBjgBQAJIAhDMnZKHBhgO; anj=dTM7k\u0021M40N@KCGieyg3aSw/nQ3oaF:jvh3g/:d65m>#4=YR6FMibW9YSK\u0021cBU\u0021Qs3fUA03sOW[9$a\'?i1/^]@I]LAh*pfrR6-%Kg%6P#@1$GW1ccANgUxcBnD+E\'ym-pML05xB54$*Y3vvhazmYjy1Z%XMEDASt9/p<xJMx@TBl>]a\':=ao=uaCXzA%8]<S:8B=(1JY0*UJm>.$9v<]Hq34-/CEFU@6=pXqklPA*C#0oc3mw>\u0021LY-fhJ/(58Z\u0021%Av#jV?t#d5*q3BGfvl_X_*b<Nq3XPR=0@bTe-3t*%*5fkKFwJcQcNoE.7N6F4(19SRHaL\u0021#M*=:vh6.W<A6L\'3@0P+FXF\u0021h=@bK^f%nugQFlXr5B]wq]?[PRnl:t?[TwKkaew.IYbffuQt8PKc(?N=@^AJ]:PE38ekVTZg6Jk)-z_KVb*G%@qk52L\'xY2s%=V8_^2kNNwDX)DF+EuMMF2Kk5TS3u9^7joe^>ok0h*16LrUt:W28/H)aTprhyo)oDQ<t\u0021:s2#^<=8(+QC9R4jjl6w\u0021*<)CJSNJ/7+jH\'9NzyY_ic(hB^nzi4bL5L^EgsN\'6G$\'uWk<k>ftJf>d(:S8$r6RI+<#8@$G=(f`\'HfaeVqI\'nF*`f-T70@-^uT1e)Ym_BI6g=uqJwj0SIHNv.BsZI\'As)L=`Am+<su*R#BYkYZ9Uu4FSdw/OUGsmTB[@L5yzvAE.8#f.rd:FCHyUsI=705j.]e6xh\'=fsL]9:VKOqHE(SQJ36-#*#5sV.+4q%:V^@c67A06AdAlJAL%u>@6=?BsgbbTzP\u0021A\'cJQlG-?=]=g_gk0hHeCi7PmEFN^E6-DtVn?+c8i$iLWH8PjJT@+LoxAbZ@a*`8MV@Rq`iJ\u0021CfBtX)1*?1Aq-x#NE))fhFJVQ`Q-$Wo\u0021XVtp5X7v<2QBy_qx)qXv`pIE5+3kE>yp[kW_R-2H:az(FFYe3]9bcf+QlM[4qL7mB<8HZ8F?U9CBVPGf+*iRNDNIfOIPp3*Y4D0a3=C8oTF:DO[p6%)W[4SsL/xJpG`kFI1eASPWEw<+**.\'@b\'/M7Itafs@)#M5h+d\u0021w1`D]XdaLhx<WL10[>pEn\u0021eLD$u-\'*QkBzism8zpgF)i298Ot1+U0*:[_^\u0021X)(R\'IFM\'Mo)`PnXA_@W#-DE83[P7cepA/\u0021t^4u]tc](y-*sgf=IoJgV9904ge3W\'85BLC\'i+g\'c_/[PVIxUE#I-9Tad-jGs(2H8frDM:c#T2iJXM<rUJHA@0NLtfb8#$o$UQP0UsLkVW[W+%H.`N6p90<w5LGLx.%(p9vzIM#(:zAwEE)]N$Dmt+Zb<UYs4SaX>1r_>68%fMAro(Nd>#ZA=Z-3Nxe\u0021:/$)GSo08I$$W)zY*^Tk%OGD7M<_rs0gL-rt$*mzjgiU4+mH/wS%Sh1PInKUP?Go\'pc=7+#nzK=SCqr$[n$I9uZ*LkCSO.R[BMo5?MPIl+0t6cABV]-)\u00215]@+J+CPIu#t@n:Crr5jVkj?5P0)khgg1a^Hr/)s4OT)FqMdFM96z_CBHCK>h>u`<=T49B#o[Dqn(F.p<8roI\'CjT?jW\u0021+w4SR1/>ck0y(/^M+Jquf^_eSAE[gwp#Op[5J@=j4ebyqt\'DW28+f[YR9IaQ*i^4*VJ:9]F@d23CcE2G@_.fO$0p%`[/di_9x>CgfZL=*hb^Of(WtUyIN[v<.)dIP2q(U7P:yZYAp]gclg@e]3EHxkGkVx%/A?cm*gsaF4TfZM<<[C1=roiXK]pg9t2mWAQ\u0021CLyP4uceJ.pP2>7SkISUsr]3k(opnvT6(U/XPB`kV%x)R=iWUUKcyA_[e+nS.535*986a:5Kj+*7S(N.lEUJk/wAt.n%t0@A3/-b)cADLqJy%^KBNTOTKwV<q(%r30T+AyyR@f[k2ka:/b#d\u0021TY<JS):.?qD@97\u0021Up\u002198C#:W[\u0021GAQdJt(LijooYe>>fjQFl3(fBj`5d?b/p+0JlKm$k\'6+NhxRU(D:SYQ^6fSq8(rpY+0r@hi1a2ct7H4_#?#e_y<dzuOd%Iy8ci\'N6xdkHU74\u0021a#%1Kl\'YZg].wmK4Z*jG1V6`@lRuT:Nc/G\'zME=@8W7x2Q=ch+saImg6tnt.2#-rcvs_Fx%Uo7Q6eDhFh5ZRi5.fws.NfHBUNtcMcW7pob5OGR(X7<VF02hj?KoH:jQ:qfr9SbOgB@2QGJ:4uLW`kU/@IrHL_+rIOsY>A#tuc%D[+b2TR9myTtaH:xm:Uf8q\u0021m].Yc757ToGweqS`UmLRiItO:ns\u00219[f<KiDp\u0021%09p+fF\u0021<\'/hsl1ns<6W\u0021qoVn4Zcol9_6`2?^av-OHkZ6OVsLecFl616DVu4t-Q]ulmLSPg*VjHFlhf)4V.RIOStw=4zvb_#iqrph_l]?jH5g)%Vzp0]8C[]l1*C5jsgjgT)#+rhbBN+bNbZb(WJqmtOJ+sN^RC\'523c\u0021gRMh3=Ze4\u00210tTJ<$Lv\u0021GHvx[@#_lRLh_mJH0l#Y^ZPk65r^bd\u0021l=%KG.8wu:+LY$v[s885m4DlYj5ApKN#%0PEKkKu]_*\'Dieu\'C+/UM$P?.Nwt$E)ElXva?.^NwT.G:.D7)`OVSkYiH7YmZzOE>e>p[i)AWe7v]OD42\'h[-2.KiTX3Nkfehl1`w@rwVNv)awv@v___n\u0021sQm73_5lFN0pt*cO2KF?g*woL6Ud6w+$8@Pl0q#CVnJq2TKUG@x25A*7hMV27oF*BFoT63^UM</Mh3UO(E)on:9lQsH7ctqf6c)Ix9jJm\'vc$`j8m)pVME9_vRnE^0A5rsD7O+gqS; usersync=eNqdl91KazEQhd9lX_di_pP0VeQgor0o-IctckR8dwWRCibZe9Ztdz_WzMrMZPK-vB5eTsenx2XPu-X5-P9wf1r2V-_L8W7Z191yenu8vT6db17OX38IcW2V7Of326eH5_vD-fD16WP3jTANmDZhuM-0mY4BsXleRzqxeSOZ6YjnY5MC6HTPp7CXMaOSj011oGMT5q8H1og8aMK0vAcG1IFTvg6C8zohvXzYKcZMpbxvlQGdTmwWLWRSO1U369AP04D-aYHMHe8nRGU2eJApwpFPibnm_WbRfIOzVmSaAiXE1ldS89kMLkB4PpgM4ePKY6T9OBTIKTzfGBw1X7DCClwT7HkjZFiwU6gBkBAQXu9eXnVPBFHabjldIMtXhOgI4kl4GgBkuhm6hGdIeBabO_cXBAwWcQJyckYgxAh3JCfkcL0Aljuw6wsylqU_LFfCiwDcK4pASHilAVAdrEYxmxHI3ibVNiv9ghyB-u1ea5nlVDdDF6VmCBR5SInyOSkBS6JSAZR6L-61O1dZACMY6CftLx9rSsg5CXJOMlBqMlNqAKSCQLYZuuRkBigZ8GxQQ4xwxIjBs2Fee0H51U0DCW9wqa1AwJqjhQGlIvk9QosBFVEcUYr8Mq8FeKBoaYmK-PfxCc7Ch_g.' \
+  --data-raw '{"tags":[{"sizes":[{"width":336,"height":280},{"width":300,"height":250}],"primary_size":{"width":336,"height":280},"ad_types":["banner"],"uuid":"316995e9a20f13a","id":19118444,"allow_smaller_sizes":false,"use_pmt_rule":false,"prebid":true,"disable_psa":true,"hb_source":1}],"user":{},"sdk":{"source":"pbjs","version":"3.27.1"},"gdpr_consent":{"consent_string":"CPI7VhAPI7VhAAKAfAENBhCsAP_AAH_AAAwIIBtf_X__bX9j-_59f_t0eY1P9_r_v-Qzjhfdt-8N2L_W_L0X42E7NF3apq4KuR4Eu3LBIQNlHMHUTUmw6okVrzPsak2Mr7NKJ7LEmnMZe2dYGHtfn91TuZKY7_78_9fz3z-v_v___9f3r-3_3__59X---_e_V399zLv9_____9nN_4IAgEmGpfABdiWODJtGlUKIEYVhIdAKACigGFomsIGBwU7KwCPUELABCagIwIgQYgoxYBAAIBAEhEQEgB4IBEARAIAAQAqQEIACJgEFgBYGAQACgGhYgRQBCBIQZHBUcpgQESLRQT2VgCUXexphCGUWAFAo_oqMBEoQQLAyEhYOY4AgAAAA.YAAAAAAAAAAA","consent_required":true},"referrer_detection":{"rd_ref":"https%3A%2F%2Fintercelestial.com%2F","rd_top":true,"rd_ifs":0,"rd_stk":"https%3A%2F%2Fintercelestial.com%2F"}}' \
+  --compressed ;
+curl 'https://tlx.3lift.com/header/auction?lib=prebid&v=3.27.1&referrer=https%3A%2F%2Fintercelestial.com%2F&tmax=1000&gdpr=true&cmp_cs=CPI7VhAPI7VhAAKAfAENBhCsAP_AAH_AAAwIIBtf_X__bX9j-_59f_t0eY1P9_r_v-Qzjhfdt-8N2L_W_L0X42E7NF3apq4KuR4Eu3LBIQNlHMHUTUmw6okVrzPsak2Mr7NKJ7LEmnMZe2dYGHtfn91TuZKY7_78_9fz3z-v_v___9f3r-3_3__59X---_e_V399zLv9_____9nN_4IAgEmGpfABdiWODJtGlUKIEYVhIdAKACigGFomsIGBwU7KwCPUELABCagIwIgQYgoxYBAAIBAEhEQEgB4IBEARAIAAQAqQEIACJgEFgBYGAQACgGhYgRQBCBIQZHBUcpgQESLRQT2VgCUXexphCGUWAFAo_oqMBEoQQLAyEhYOY4AgAAAA.YAAAAAAAAAAA' \
+  -H 'authority: tlx.3lift.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain' \
+  -H 'accept: */*' \
+  -H 'origin: https://intercelestial.com' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://intercelestial.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: tluid=17242564051914805636' \
+  --data-raw '{"imp":[{"id":0,"tagid":"Intercelestial_StandardDisplay","banner":{"format":[{"w":336,"h":280},{"w":300,"h":250}]}},{"id":1,"tagid":"Intercelestial_StandardDisplay","banner":{"format":[{"w":336,"h":280},{"w":300,"h":250}]}}]}' \
+  --compressed ;
+curl 'https://bidder.criteo.com/csm/events' \
+  -H 'authority: bidder.criteo.com' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'content-type: text/plain;charset=UTF-8' \
+  -H 'accept: */*' \
+  -H 'origin: https://intercelestial.com' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: no-cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://intercelestial.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: uid3pd=088f2bcc-83e2-4e89-9fbb-17e223d9dd72' \
+  --data-raw '{"requestId":"b04b3813-dad3-4eef-95d5-8e6677d1b7f1","events":[{"eventId":"AdapterBidStart","elapsed":7},{"eventId":"CdbCallStart","elapsed":13},{"eventId":"CdbCallEnd","elapsed":1023},{"eventId":"CdbCallTimeout"},{"eventId":"AdapterBidEnd","elapsed":1024},{"eventId":"UserReturnTime","elapsed":27273},{"eventId":"AdapterTimeout"}]}' \
+  --compressed ;
+curl 'https://securepubads.g.doubleclick.net/gampad/ads?gdfp_req=1&pvsid=2204299168758683&correlator=3068459180856520&output=ldjh&impl=fif&adsid=ChAI8P6PhwYQ092Ut-zqtPVAEjkAXZO5zohVQMr5L-UoqD0tlTDswiUPuEWXkI3ndfMskKdiBb7CHfXouo4JX-CddqJyxZEiqTLJPTA&jar=2021-07-05-07&eid=31061743%2C31061181%2C676982996%2C44743204&vrg=2021062901&ptt=17&gdpr_consent=CPI7VhAPI7VhAAKAfAENBhCsAP_AAH_AAAwIIBtf_X__bX9j-_59f_t0eY1P9_r_v-Qzjhfdt-8N2L_W_L0X42E7NF3apq4KuR4Eu3LBIQNlHMHUTUmw6okVrzPsak2Mr7NKJ7LEmnMZe2dYGHtfn91TuZKY7_78_9fz3z-v_v___9f3r-3_3__59X---_e_V399zLv9_____9nN_4IAgEmGpfABdiWODJtGlUKIEYVhIdAKACigGFomsIGBwU7KwCPUELABCagIwIgQYgoxYBAAIBAEhEQEgB4IBEARAIAAQAqQEIACJgEFgBYGAQACgGhYgRQBCBIQZHBUcpgQESLRQT2VgCUXexphCGUWAFAo_oqMBEoQQLAyEhYOY4AgAAAA.YAAAAAAAAAAA&gdpr=1&us_privacy=1---&sc=1&sfv=1-0-38&ecs=20210706&iu_parts=71161633%2CICLS_intercelestial%2Chome_vrec_1&enc_prev_ius=0%2F1%2F2&prev_iu_szs=320x50%7C336x280%7C300x250&fluid=height&ris=27&rcs=1&prev_scp=publift_mv_testing%3Doptimized&eri=1&cust_params=GS%3DNo%26FC%3D1%26OS%3DOther%26fuse_profanity%3Dfalse%26fuse_site%3Dintercelestial.com%26fuse_path%3D%252F%26fuse_query%3D%26fuse_category%3D%26fuse_industry%3DIAB15%26inskin_yes%3Dtrue%26fuse_uuid%3Dce6f38b8-aabd-4526-96a6-21441ad741bf&cookie=ID%3D5b627f8de6c6fc6c%3AT%3D1625590167%3AS%3DALNI_MbBXGkWHwVXJiEFGKV1B312mNKqrA&bc=31&abxe=1&lmt=1625591528&dt=1625591528152&dlt=1625591495563&idt=2983&frm=20&biw=628&bih=444&oid=3&adxs=164&adys=2469&adks=803978384&ucis=7&ifi=7&u_his=4&u_java=false&u_h=720&u_w=1728&u_ah=640&u_aw=1728&u_cd=24&u_nplug=2&u_nmime=2&u_sd=1&flash=0&url=https%3A%2F%2Fintercelestial.com%2F&vis=1&dmc=4&scr_x=0&scr_y=0&psz=598x600&msz=598x600&psts=AGkb-H8RGxqqB6Yy_hEuvqvx9JQapWLOhmjxQhm8ww3rSOLbajGm9Wsk8QWS9sKW5xl_UlWOSdSsLJoZg1kcY_dW1TrRO49pRio&ga_vid=1578969232.1625589975&ga_sid=1625591499&ga_hid=1833711195&ga_fc=false&fws=0&ohw=0&btvi=2' \
+  -H 'authority: securepubads.g.doubleclick.net' \
+  -H 'user-agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'accept: */*' \
+  -H 'origin: https://intercelestial.com' \
+  -H 'sec-fetch-site: cross-site' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'referer: https://intercelestial.com/' \
+  -H 'accept-language: en-US,en;q=0.9' \
+  -H 'cookie: RUL=EOno8oUGGOnP95QGIi8BNmGQ49_0z_TUnVBJ8FhL813CIYF0IdgATczDwYtJJKyVnf2Jgzb9oMg_Ud1bSw|cs=AP6Md-WRhcpa4fOQl2eiHrTui0M_; IDE=AHWqTUns3k4SOra7O9dtNUBWxDYobMlggut2UKIXWhRGA8NTmDTdQB9hvJFlUIswkQg; DSID=AAO-7r7KGAnHtuEbEoGYK8frrZPI_ceJCAXoaH1jnxFSmYRWw_h1IKc4_xqPLIn1JUVL71AX9Rm0zOO3e8KBHSR1x5Z0yJ_LmWnc-iCiVrq9Eq8S-yKBVM0' \
+  --compressed ;
+curl 'https://s.update.mediamathtag.com/2/2.12.1/619621/AKMannMVDePO1eR6/postback?r2=&dt=6196211556140246740000&ti=3866150945597444544&pp=186407&c1=8583049&r1=117.216.22.108&r3=&ui=986460d8-27e7-4600-b181-c3d47b4e0c8b&de=43001&ai=245892&pd=avt&sr=15&si=238492&dm=300x600&ac=961697&cr=9190367&ci=619621&di=https%3A%2F%2Fintercelestial.com&ap=&pv=0cab664d-84d8-4464-8a27-9758183e5162&sid=AKMannMVDePO1eR6&oz_sc=aae810f64abe3c2cd1876c8d&oz_df=1625591527246&oz_l=98&cv=3' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --data-raw $'2GAM*"S&4xElw$~E/tzd $K-KF=DH0u98<>,23ll<:J`zpy9:wjV{F;3`X4GlX8U2I0C]qAR_V`lRukUBI\'8Y(bdax\u0021G&0@\\c \\72r' \
+  --compressed ;
+curl 'data:text/html;charset=utf-8,<html></html>' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  --compressed ;
+curl 'https://s.update.mediamathtag.com/2/2.12.1/619621/AKMannMVDePO1eR6/postback?r2=&dt=6196211556140246740000&ti=3866150945597444544&pp=186407&c1=8583049&r1=117.216.22.108&r3=&ui=986460d8-27e7-4600-b181-c3d47b4e0c8b&de=43001&ai=245892&pd=avt&sr=15&si=238492&dm=300x600&ac=961697&cr=9190367&ci=619621&di=https%3A%2F%2Fintercelestial.com&ap=&pv=0cab664d-84d8-4464-8a27-9758183e5162&sid=AKMannMVDePO1eR6&oz_sc=aae810f64abe3c2cd1876c8d&oz_df=1625591530113&oz_l=54&cv=3' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --data-raw '2GAM*"S&4xA\w$4e,gtKj*c$:IA;Ds&3T3Ksg&l5C:uHbt6)@B^eLgJ/D:' \
+  --compressed ;
+curl 'https://s.update.mediamathtag.com/2/2.12.1/619621/AKMannMVDePO1eR6/postback?r2=&dt=6196211556140246740000&ti=3866150945597444544&pp=186407&c1=8583049&r1=117.216.22.108&r3=&ui=986460d8-27e7-4600-b181-c3d47b4e0c8b&de=43001&ai=245892&pd=avt&sr=15&si=238492&dm=300x600&ac=961697&cr=9190367&ci=619621&di=https%3A%2F%2Fintercelestial.com&ap=&pv=0cab664d-84d8-4464-8a27-9758183e5162&sid=AKMannMVDePO1eR6&oz_sc=aae810f64abe3c2cd1876c8d&oz_df=1625591532455&oz_l=5155&cv=3' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --data-raw $'2GAM*"S%?#CYikR_Db7\u0021hz?#VZYQH\\mxT]G d$h\'C:y>mt6s bnI0bH30K{VXT+|8a^UBG~I&B;WR@)iPf\u0021 Gtf``X[-&~Z\\0^M.U)[nx\\4\u0021m/=p6)Nwo`jCe;\\H]5~\\+Iyilb=$JUTobo(U BVYXyj #0)YUrZ^;6Z`+^S{l@`e;Y[eBzgk5WPrwHxon9K9c]em5\\c?C4&C*~1Kv07?lWPB%2`6sYW`(mq5NE,Zg,qVf{8tK1&`XBGYx8cM6-{{b@gDOLC+EYn2eOHrHTM:)"Q&2XkLg&GlKp+Gvd[;nTlI1Te\u002187X{vzJ%Mw\\2Nxkl=|&@"h -eC7Y^tFY%@X"yt(<(i:EFxyJR_S\'-D~,45lj2f]on.s}1jLKx5W(^kCQ\'fp~96~xtN~LXFQkuG0]@4iHnhxu4gF&=tc*V}vI|0/:d1X7>X8$5`~P=npo`wQRVI^<UY-xrB\u0021[8;/wR|E9 zXUkMt#z,b)%L?C.=7M(/3Fl>{OdDj^@a8v\u0021|qT"`tAHe;Y7;/uKaq\\>+qjTXug>0\\cGV[3U{*I%5gIgPn(`lhQWlM53e.S#P%m}KjXJksI*%OU2_gd  Q*S84To*Qa \\iyu0JA`0ufMo0y*j\\~}#l}xO7.G6{"RVq^-=q;*,`1(Rv>Uxr"EE7hvRQ}Z;qye|*qk| :I=*&ti_-7aGF6pCc@"fUPQ.;3RF\u0021HoR>\\CYvDE=EC[.lo2P)#f(PF|rsZ&{H\'B}O~15/g1Wy3#5sxK*4nF3r\'i] \u00211A;McDTt@D].{8du8X]{}Rs}mn@"fT`|#1#5eT[NgNMfMG7Nc5L#y\\Cg4$W{~MB?e;^<>iYK0;:8KVw<s8VN6SCV\\3grQb,2\u00218`}5{N|J%2Kljtb+.scIR|n5p,i~7}zLf%Db:CYL>=-o#L2lKcG,i+",`0Q8x,(NubKI )?RY%%$;H[&$.^ %{nXDl[)0bd=N\'hOP&vnr#(yOD*8\'7>zP;D.iL,D,S%Z|;u5;REF+E6P[Y>e## C+::l;aYsp8wS.1cr~0s WiM|dtFiFTj<K]*Ot6^x@k6VzOf^A:EAIwsr`c`1a\u0021`;1vl5D<[t%bk+FN+`meB*2a&J5jgAF{nx@rM<r.H5qX-#qlyM2cM:Edvb7h? %txG%4w0(j>DLD|I[C\\W..iv?Mw5r_r>hkNmO(h\'2YI?84iF8q\'`;8XO|1_(En5P}oIdsn+\\auKi?yt8X^)\\"Uh>.b|d\'O8=UGwQ9OM<H@=PNcPto_XOG/[7~\\hl#7uIdV_$^,*nTz%KCprUKx"?i"uq`=KMI_l&}YWe@WM@%2E#:o_`)It`:tNyK;)<%2DJJalEVWuoF*pf^RRLiS%~%khc\u0021?KP*Lvd\'j.0FQkZR^)MM^"S+Zp`G1q85v8[5%W2:4PaH(~eOBaUg`j5buOp+\u0021a\\13;5-w\u0021CC::tzb)~=)kJ/raI/|;9(4:dZtQd:2]naLT"$$+VoogB*440Ao+H<SApP65]#SX\\zSb1FsXFHCIs0hG_\'\u0021=;27G5XTzQmAkc+|4V7TwwqF=_lAZ#V[pOjd<uDhQK/[8n7RvTf<;Izry;_3U{z]kNXod[i8E)OqzxnCYrJM1}egyf5=1>-G,H;N&2kxzJs]sOw|Ztr*A7?[Y\u0021p2D9lw\'C<ovQUD@Z<@7litu5Q9cn=%mMn(b\'{n=o#5xFVF0ibFUY?QPso81rX=7#u$dp\u0021r+/<dI)05@s\u0021$.TfOU&U3Y&{Q(vOPLR#}pe{t16(K*Oq<2}lu\'bE#@)~AcH:&G}yJm.~E#JRgO|/4ob|vBT{ Gb8\u0021VFQZ6{(+*,Y-\u0021#Z}]<\u0021`KlOZB@VY&U(8QmF|AaU)4H9j3< |djzKtFu]$^(s0 O(DZTR.QN,,uip~9TH*[w2AVo$=:G|*HlAeKhL=1]83_>;~pfQ\'-JHX:t<GyN+49vR_H$,mkN?u$&"aZw2wn-b^Tz1fP\u0021HN20L YA#cRnHzw31$dV\\#H+/\'tOc4\\qYb1{VT5C?N^$>/@]R[mCD(<WEbHDaVwa?Hp}_2n`KU1fsRa_*a|_t@m24j+u9K0\\;1"zo]so#&5dg;2=Wst+xUQ[VA.I>=t/}c$%\u0021VJs[Ru{Iw|@_5sK6Wwjx"tHl5?~tU]mZY3^%UvdNMz>R_w#p*`ig3-r&nGy?nB)6;+ 9h}(\\X_h<6C0=Q?) 4M4>k6L]/6Y\u0021F0u:|VI#:/1D^pj(]3.GSci1E(VeTRM&oZ,qJ_Y:rD)4ia{pVQ*vuM$CO\'ug4<U23X9tiR0543*i+Fi+L\'\\w]CW57@.^>dmT<,N@(RPS;a%D_^Z\\IY*-QM2t<<eO;w*o{=3RAS\\RoO79UmH;W;zmEvxJ*ZLwS?rji@]lCh/0#?IQ\\Ts}?3Jg[8xQulSH.2x@Buq%@5o0*S~)}@*#XokfmHA56rjdFo:|+3;G\\nUfd|&L<ebs7VlNB5z.Z~D$MMWWs;,y3b[2H*3O{[`&(;5j+\'QJ.UdVI4BU]hi1%ZD\u00218uM,E<SzYB=\\uElgtnhL6/U(Yvtz"[(EU/xw(GCU>tL,A\u00214\\HO?B)7/;OF\\13h1LB;"6v cL{O.}-C3V95>Cc&97x%\u0021q4,v^~utg0^kB`\'vx93rJ7-mMI0 %d5il,x1":v\'(8|W?+;/ie\u0021n753:d#JU#2s9?-]-HM#l?.Iw_F/R\'e}E#0-khw:r-zX\u0021%W-*::E8<*y>|}?KrZD[r;eMXwT^Q*,GVKCjJXweIZ(@3nt/qfsAIk^p>@ihTxC5`["j7gOp0/WW{%E`d`YCnx"Pj=WdGGWV]B,"EP#<qA&\'-}S&4OsXVA8:\u0021n"%#KO\u0021\u0021gM\'nGb);cz1IqlzFdkX)\'9L_nH/$R-p]bm/\\;+mj2/]g_&$w,[lz4\u0021n 3Wm3 P`1OAn*b>Q<w3@\u0021"Wx-+L^k4[6_km4Ex]nAt(X0H2?r 2-iMN~B?K,c/0L%gtM?yY_OO(DL`i#z&8~XU_AP\\5E1bTZ8gY38K{2}P+F&Dx7?Jb>v7~Y@Q&zZm}{T&7V&c:/~,2fV)EyaWu5<&=\'qYS/HhSUQ&w6$}-~M*VS}vyxp)|bG\\0Uyvl@V\'F~lCVA Z`h5)<(v0HP\u0021R5cQ<.o:5?)ng7^C}H~.ffN*sR5Gm\u0021<?{t,(h5bnA;zij"M2u<,Hk9e1MPURabk<Ds$g\'#dz3vLb`DZNc1"aq~xJ}h)\'}rHn3E~Eb[2l5lifnF[YB3B&*,2>9=By1ofs/]e=\'eBT,OOv|e/N(fa9eaZ=LBkYz,b&tI1,JD%N{^"fBr<F %c%EW>l@[JUy`&9N,$\'=&y/]*xaUqVhyt{tM7_/)CWecP(H(0ts2FI{A@he{,x{|Tr$D|}V95Z=n"sON.]\'S"-Gh{-:,B"}:QMA|>mj<(Rlf][uo[RJ%~:P^/u\\tb,[zzVnHK(%1&k"B9UA_ctNNA|p#4\'0B%0+SMYp)\\M.UswxrA\' M@q)T:e8c1" f*SqqO,y@,|hmY3Auzq)zAN2/-iGa9F.t_u3%lG3{qT%p3q~T[vm:VErGo>r/AKgd~%\u0021Ci7<]?}eW*5v&i1EF~acLP?,}YqidG?J>.o"K3lsXnHpvMUCX#9-MGe=;8@FtKNVw`_GmO{q"P[Wy>HB[%bgnce7@`I,bBgSc[+11j}aQmHvJm0s7Dr=~}0pxQ=B>BU%-wq?=Fci?2#)h9(\u0021PYs$")BI|h1_/6`WcKf*,Dnu*J#L@WqGK30ks_Jh}FqE/cb}\\O1p)9gfh$lJ?J\\D:Y]m\u0021f\\7~\'{@kZtCG~X6|Mc)Ub4Fede>~e")4p>V,ujG#b]AgAe>+M**Gqha/f*10sB~%=sZ~:X6E5qsIhpBSt~=@yd9\',/J)m (Hh~d2y,7gUL4vIYN4]Ik*5@4gGRM?eVQG@f\\,]V7\u0021H}@Ko[Q\u0021s#-ytCiPxM"G*q*6s367-Ep7EWUnzs@2/wZz=UZq*e6HYrEW[|gqu\\]CGK?1@wS,4e?PdMPB0g&3O/4"WA?G9<>|;Roz^&\\uvsg5L3KQ:A=V}M?V(W;B^+$],g*RH`(_z.5w\'Z$bFt.:%agP\u0021ExnC*_]q`;fLL{{>CaP*tF;h:bwV6nK(d/.I&kVnZ7BhiAQ/PsEQxAGOL*G+/Zmi~+4>fYFgTQ_L([0j([35U/"j|o7l2Py`^gx2=bFyRIyhj\u0021B&Km2].}J~z8W+S83)bgfuBxr1UD%FO~*APb{cZg<aC\\mz,Zc],#|wOI ^BwNJ\u0021G2O-SkLo0uWZSB#JI0MX\u0021#P@}=?{tlici6J.L2StIip#dww6h2C/=%%F?uQr~F,AH)g1o)M2bD%pV.<v=yr7ixZT*P*hz56tK\'hDb|;+HQ^)f=h_2;VFp?2k>;>`N9SIm)"[{vA")ejDGj #[wd6)zZaDxTnluRG0yxE4Ks&gaQg_9@:yz\u0021/qTq&[6d7qJ2Iu@YLArfYHz64kETVyUm"fM~p_i4n0=,R51IQ7WbE)>N\\,hekT|FHOm0,1-\u0021^6;|p$;y9M4}D9:A4YgjxF];\'%[xwg++S,cc0fb(beC-V\u0021Sa7/EQ\']CIXB?jt,x_\u0021moS-)Y]k@r`Wn8xblar8m;RLxfs8g\'.i,)x)_3= j#MW]5q[*nIK/%;@SxT\'%7qL4/"h\\Ie$$eh\'{|hrQ"G[JA#aR;wd2^M`S=N`C|*<NB~ur4x]aw*TU{nL=HCD~F@`i-,\'*}\u0021x.L\'h:(\u0021[~~2U^a(Az<%n0z=PRy^+p/YHrk%OSd0\u0021Ym_20uQv~\u0021d.X`\'&^j/0*|/l]w[iD@R`_H%x,/[m[Q~GV]C5[?:pW,/1y*Mr2(CZ<.hO\\\u0021R"P0&<fs:DsgBuz:*4W@\\ur4DMwi\\-,BFs\'_\\y[_n D"KVCDpBGk[}y{Ec%\']V$$#+@j{\'\\4\u0021z-f6/VWF?@4x-j"c^;Q#saiuL`0fFEY}%=-9fC]mMZfw1IW?\'ti\\_b{e*sBbrOYmwQg5HemE-TIz7, sxZQuv#V\u0021JB8k=cQJU;pjo\\UT"GZm31&D`HR`kY@,tbBuQ,t-$cL;-(trl0aq_wC2S3W;(gkV$\\X<F 1C2H*[^d&gg]`=s\'}0@qbG:3:(0BFJP|?Nn:_|knC4g?;n,&;%wf:YH@e$j`*M|F\'0Z$U+k[cs$9d2bC4a=r4w;84t ^]=r\\AbFwAAoU|acA-L8DQ?>vxJ/uLl0 Gd|??=tbwO^W-WZC\u0021wZ\'\u0021t@@[gL[J9g~L"tmLa*Nmbayk#KCa\'Uu\u0021Flgid;NY,\u0021Tk^fYT4xY[+.>u|IgY\'CTS~Y<<]}o_&{jj+v' \
+  --compressed ;
+curl 'https://s.update.mediamathtag.com/2/2.12.1/619621/AKMannMVDePO1eR6/postback?r2=&dt=6196211556140246740000&ti=3866150945597444544&pp=186407&c1=8583049&r1=117.216.22.108&r3=&ui=986460d8-27e7-4600-b181-c3d47b4e0c8b&de=43001&ai=245892&pd=avt&sr=15&si=238492&dm=300x600&ac=961697&cr=9190367&ci=619621&di=https%3A%2F%2Fintercelestial.com&ap=&pv=0cab664d-84d8-4464-8a27-9758183e5162&sid=AKMannMVDePO1eR6&oz_sc=aae810f64abe3c2cd1876c8d&oz_df=1625591535172&oz_l=107&cv=3' \
+  -H 'Connection: keep-alive' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Content-Type: text/plain' \
+  -H 'Accept: */*' \
+  -H 'Origin: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com' \
+  -H 'Sec-Fetch-Site: cross-site' \
+  -H 'Sec-Fetch-Mode: cors' \
+  -H 'Sec-Fetch-Dest: empty' \
+  -H 'Referer: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html' \
+  -H 'Accept-Language: en-US,en;q=0.9' \
+  --data-raw $'2GAM*"S%?#CYikR_Df7\u0021%4K,Zv)1$S&9GEre)MH\'I.2iXNYjJwnX"Xf3"LtLYV+;i8H9?@cNPM=VDolITf\'eTutm6]H8wJj\\+TK),7{fvGmVm/n' \
+  --compressed ;
+curl 'https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Referer: https://intercelestial.com/' \
+  --compressed ;
+curl 'https://static.criteo.net/images/pixel.gif?ch=1' \
+  -H 'Referer: https://intercelestial.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://static.criteo.net/images/pixel.gif?ch=2' \
+  -H 'Referer: https://intercelestial.com/' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://localhost:3131/465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com.js' \
+  -H 'Accept: text/plain, */*; q=0.01' \
+  -H 'Referer: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://ljdobmomdgdljniojadhoplhkpialdid/page/runScript.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://tpc.googlesyndication.com/safeframe/1-0-38/js/ext.js' \
+  -H 'Referer: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://pagead2.googlesyndication.com/pagead/show_ads.js' \
+  -H 'Referer: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://www.googletagservices.com/activeview/js/current/rx_lidar.js?cache=r20110914' \
+  -H 'Referer: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstxOizK1tdx4yA0SQCzzC1p-8ID20UcUeK4N6bHky8GldsRGTTfYchBmPt-qlBLei_tD8MzHgXYyA37bsHswjQuAer7so2NP_LOPqoDlFtPqXMTHwYQfgDDNWj7O5hhXaSbbGz8Q8_JaAAcLs8uqXX-WlDlAUyaQLN6f7zG_kZv9YK9n9TEO2YvP0I93-YVJhA0gL3t-ARVEJNCsVsuZIKelFj-BeYKgoZCr5LMCRIrDeK88Cp2BLH2IdfRztVEbVIq6o-GCJKpPpE_hKZIo-2Q81QQxziL11ERjvo2tLX94Y9d563I_AbWu7KaxVh78U-M4IJ509LF&sig=Cg0ArKJSzFwjzrU5SjvJEAE&urlfix=1&adurl=' \
+  -H 'Referer: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://pagead2.googlesyndication.com/pagead/js/r20210630/r20190131/show_ads_impl_fy2019.js' \
+  -H 'Referer: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACsAAAAWBAMAAACrl3iAAAAABlBMVEUAAAD+AciWmZzWAAAAAnRSTlMAApidrBQAAAB7SURBVBjTbZGLDcBACEJxA/aftvGHeqltczVHyBOB/7IsxKcOYNzSH07XOoRGXaiYKlKdXJHvqOUNjneT4JJ00WtzB0WxWzOVKpX1s0hM53JFG2vSkMBk/pAUfc567sv6TMkOiDuzCdJOguy8/RzuWhWe7VC5710Cg48PiAMF7k2GlcEAAAAASUVORK5CYII=' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'chrome-extension://mooikfkahbdckldjjndioackbalphokd/assets/prompt.js' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://intercelestial.com/the-permanent-watch-of-the-sky/' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'Origin: https://intercelestial.com' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Referer: https://intercelestial.com/' \
+  --data-raw '_wpnonce=a5321912da&_wp_http_referer=%2F&userid=8129' \
+  --compressed ;
+curl 'https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjss7CzPAcs2wIaBunuUjQ7bCIKTcAGefFPSXRKZZESd5pcyFE5XEt9QIpOBn_2f_3fjRJtsiXoLkpTbgIxqgNkL-dktCS91Rs_i0sgL2RQCOhoFtXlD61ijuJpW6fFaoQ6wDjNzyfXtra4NpVKe4OErkIo4qYQu_AGeo6T3LshdRvIhENuF_3qxplX0PH4SaP8_7vZsNCPEAGl6qeLA2McEEiCZnE6w7Z2gPZG3HjgjhBmP5foVgnE_tuKJFfBpR5iZL2pZJKV_WW9P3z19mUCtFzX5wUBs_XHmYKzZ_ad20Pj1NmL1wX4JYzxy5AT18P-j__sY22wFN-UQ&sig=Cg0ArKJSzH4XhqwWcM72EAE&urlfix=1&adurl=' \
+  -H 'Referer: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://securepubads.g.doubleclick.net/pcs/view?xai=AKAOjstxOizK1tdx4yA0SQCzzC1p-8ID20UcUeK4N6bHky8GldsRGTTfYchBmPt-qlBLei_tD8MzHgXYyA37bsHswjQuAer7so2NP_LOPqoDlFtPqXMTHwYQfgDDNWj7O5hhXaSbbGz8Q8_JaAAcLs8uqXX-WlDlAUyaQLN6f7zG_kZv9YK9n9TEO2YvP0I93-YVJhA0gL3t-ARVEJNCsVsuZIKelFj-BeYKgoZCr5LMCRIrDeK88Cp2BLH2IdfRztVEbVIq6o-GCJKpPpE_hKZIo-2Q81QQxziL11ERjvo2tLX94Y9d563I_AbWu7KaxVh78U-M4IJ509LF&sig=Cg0ArKJSzFwjzrU5SjvJEAE&urlfix=1&adurl=' \
+  -H 'Referer: https://465554e1e9f6023b4a7a3a822e58ca16.safeframe.googlesyndication.com/safeframe/1-0-38/html/container.html' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'https://intercelestial.com/the-permanent-watch-of-the-sky/' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'Origin: https://intercelestial.com' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Referer: https://intercelestial.com/' \
+  --data-raw '_wpnonce=a5321912da&_wp_http_referer=%2F&userid=8129' \
+  --compressed ;
+curl 'https://intercelestial.com/the-permanent-watch-of-the-sky/' \
+  -H 'Upgrade-Insecure-Requests: 1' \
+  -H 'Origin: https://intercelestial.com' \
+  -H 'Content-Type: application/x-www-form-urlencoded' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  -H 'Referer: https://intercelestial.com/' \
+  --data-raw '_wpnonce=a5321912da&_wp_http_referer=%2F&userid=8129' \
+  --compressed ;
+curl 'data:image/png;base64,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' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAACY4AAACCBAMAAAAZXNPFAAAAJFBMVEX////////a2tr/9/e5ubn39/dTU1P29vbv7+/+/v74+Pjw8PCvMVmIAAAAAXRSTlMAQObYZgAAC3xJREFUeAHs3cFx8kgTxvE57b1TcAqTAgH44vL1OymFN4S9OgRnsel90otV//KIZtQwCA16nn3LFj3dMnLBrwqtwEl5fhRFURRFUexqUrO8jWl/31ce4UMLJE9JpPECiU+8/c2tNdJir+T0fv7+zzAM/5s3z1tj5ac4/ITGNLA6lahNOW8Wexm/nHtpfMITq7vejSLH5Jgck2NyzIar+WhD2JS/3zd1jCO0BxZIHqZgSfsFEp3gd7+pY0SOyTE5Jsde2TGgmaH6uTlrwyoqnUMLE+ct+qiN81hZjRzrnjEgu/+weQCnpo6ZDYPZuiO0RxaQBEses5AzldoEgaB6jXJZJOViZOdHcczGDEXMeu8lZe/BHGNTjsmxz9O/X3JMjj2OMWJ3HjaP3U4dM6+wvWOZUtSxgG0ObmTtTPV+nE6ndwRaGjP8rgHStIBohFU51rxXjhE5Jsd+8vnnz+jYv3/+yLEOeuVYIu0dq0oGOXaxYFbpsMEopLJgWzqWqQUcw5T4q0pqDV5ZFvfkNOdFHRsuxKznXkIHOZZjY+RYdUGOcS6MrQunxhCt8I6tMfTJMTkWOOwdOmY4RGG6YVc7bKBjXlyOhFXKOW/oWCLPcoy6f37s9Rwze4w3Zo/qNVvrGL1HdCwlHuFyTI59t3ZMjsmxj6BjKVV+RTyWq47ZmOhFhvzUqmMGROcCHlU6XMcYCThGJbdxzCcRUNYoRnzFnKaAZNS4fuyyY1iEWXOoMcvZrzSW/qEvcH5Mjg3DesfoPZxjb2w8xDE5JsfkmBz7aOsYD9kXccwaOAZItztGvUaiHNP/r5RjzRxzLiWSY3JsZuj3OS6eGUjFTWqOY+XEsRyTYx9tzvPzyK44FjtnX3ZXJbPSMfMc8zuK0/p7cCzXd1UXq6gRXzG/LX6FrBzbvrf1eX45NkaOyTE51rZXjn3MwbPbHfMB29Sx2R3IKQs45ncUbO3AsczKGscSea5jlN3PH1teJ3GuAQ/MFVs4lqix8ZjPH9N1sHKMriM6Jsc+v0bHpq9yrFGvHPsgP7fucizFHKt5ROjGMXfSMchxjI4GjuWck7MAPuXEwRw7vZ//yTE51qFj5NiOybHvEbHpaw+RYx04VjB2vnm7Y3IMaZYLOYNPZQL5Ao5BossIdWqEWiXeMLutSDY5tsfIMTn29jb9W2fZ24Edk2N8HmyryDE5xrcpWzrGvuqSld3+5HaOlW8NwqmLC6xXJpAv5BjL+3aMz7vYW+SYHONR+1bPgR2TY3webOPIMTk2HNCx4V7HMn4sncohx5yJgGOQuHPHTnNe3jEjtudeIsfikWNyjI8RK+IUi6vyqbMfJ+PUOfftk7oc26Fjwy2OGbHbFWNfpNZd3nqKYz4lzkKuT7RwDEOC7wantkay4DvIWeD8mByTY3JMjvXs2Lcca9orx8hxHEsmx57lGNePoQehfsmcc72copMEDPTr1f3YmFV/hqevXje+YXJMjh3MMd5fKce26JVjkcOOK+bH7IZu4r905NisWPRGysWtHcv51Rzj/ZV9OibH5Jgck2O8v3KdFWSYI8fk2PEcs2VhjBVKOSMs2qaOMUHTi50f694xs18PPjO7fNplWuyrd8ryF+D5xVQ49VE5JsfkmByTY7HDjsUIe71y3n9998IxWxb4JSCTP2JGiWzi2PyVvJ5juNTiWoi4Y1Nl7T65z0HH5JhdyB2jXTkmx+SYHJNjcswpFI5ZZYSX2YykjR2DsSzH9ufY8pH568nRWy+OcZOwwn7R0herTHxUjsmx3Tj2+XV6//y6yauxmf4G58cq1/kvwx3blU1yrAyOhQ6bPP+sv3HLOFwKpWNWdjiO/R653bF8i2MwNn1lVx06dnqf/pNjh3CMDIQfePvokx2TY3Lsv9O/p2851qJXjjmQDb07hkqwZb5j/EbcERxj5EbHSNixPCYVHxZEuvu8C1SJXgvRxjECmOscO9PHnyH8yZWHbme9/Fpq7w9nv1f37GNUH5VjcmyXjvF5sHKsRa8cAzJCa/Cw20uGleFuK9ky3zGvw3zHUgo7hj43O5am9O/YaY4cO5Bjzo+7fVSOybF9OMYTJOBVw88fY4mit0/nuovneyPH/PTvWDKDHAqOY97IQBo5lnIrx1Lu//zYKzjmP9fMCkM66p3Cr+uSYYVj61I2mgVG5Zgc29n1Y6Nj/33Jsa165VjgsNs6RswC/XRDzr0Fig0cS/kux/jrbvT2e/1Y75FjckyOHdix79Gxbzm2ba8ck2OWWjjG1I2O5WnhvExzv++vfAXH/Njf9NeLY37SrwBEMGbxUTkmx+SYHDuuY/59aO5Y4CeY+d1tHTMHx8Vbg2ZwnIX8M+ZPuI5Ry3xJeUp3f4dXjskxOSbHXsKxbzlG5FggcqxlAccIojj1OWVDdkisOTZlYWUXjpFXdqzn3rpjDSQzu3VUjskxOUbkmBxr+5CIfz6jEfqf7lguFqiTfH2ChbWOMdGLY3JMjskxOSbH5JgcS1ZnTI7VCtnjKl9jjHVWsrOroGNTqSpZUSPUrubyKKkrdgzJzPrsJdcdayCZGaNyTI7JMTl2RMfqkBmHvZFjDfa6pWMOZHmxwCcgkuxPkEy14hgdcmwvjpn12kt8xeSYHJNjrSLH5Fiyq1lz2HIsZY8rFvCF5MoEC7nuGBMLS/bjGLWDSGbWby9Z4VhcMjNy+2j/jskxOSbH5FgkZls5xl47cqx4axBh4apjlRebVOuOuS/jKroRalfiDJJtX1XKMTkmx+SYHJNjckyO+ZTEFy7Ll+VYf5LZmJ57iaNYVDIbs6w0GZVjckyOybFDOOYf9k4dIzblcYX2jpUL8BZwjADHSsnKGnFbKoqRjhSTY3JMjskxOSbH5FhX2cAxqpllWpwJSIm8sow4FnlVSe0YktmY3nvJOsXwyH9HeJF2o3JMjskxOXYEx5zDbhyzqmJyjHU6lhMEPSqS+cUmV7tSk2PHcsymTN/CjjG6L8fkmByTY3JMjskxNnP2J8haai5K1eZVJbUXDmeizXiCtO2dtvx2es3a3gckO39f9Txm92AU/6vG9VE5JsfkmBw7kmPOYTfPmn3KsZQzy/7Emqsv1tZi3Ue64kKOFUEtTtH7P6J+rIzKMTkmx+TYkR0bflIeNreJHNvIsRR2bMpTHKP24uHJygmS5r1zqhKYtb0P+DVtrcKI3QcdY2iKHJNjckyOybHaYfcROaZsEDlGlo5xvytZDq0elWNyTJFjckyRYwpPC7aa9X58rL8XU1reB/Ra7ZgZkIYd+90ox+SYIsfkWOCwFTnmRI7JMRJzrIgck2OKHJNjwxg5JseUVSde2GraG0jL+wABbDW4A4EhOSbHFDkmx+KHLcdyw4WwY6JMjskxOSbHFDl2YMeGIyOWMpRkhIkskGIh5BgTytaxn7DVuDeQZvehwa+jwZAck2OKHJNjw5jrh63k4ddHTec7FgCOhew45kwockyOyTE51nHkmByLR4GSOfEFn8S59NuxjGPLCUVRFDmmKIpeYsYXHODmhfnblHlg2vQn/t+uXdg2EERBAD3RNeSGLJr+Owgzr7Sc94SJ+d/8MQLoMeAfu7Q/4fLTjQPoMQAAACAPrkc9BmiwoMf0GFAgOe6c9q3CAA22HOgxPQbkcdvsW7UBGmw50GN6DLwnenSm3sIZoMGCHtNjLWRLcLxx5oNr+RIY4M//72OnHgM9psfAR9gD3x0B6DGA05sVQI9tgNYHv2K6Bud07z3JHbnqTa7krT15k6v25Kr9UPL5+ms/zNJ78F5a3ZUfpOIqJOm1fnl8jAXXIFc1yJUekzc9Jlf75YrUvo72ksYzkB+5kit5kzfkarVcpXQ2udNivGkwqDzegQ3WO1lrieWqnFzJm7zpMbnaIlc/pCLp98lt/K6u8Phk8qxGrpqQKz0mb3psA3IFABMDbgGADz0OeQJaFAAAAABJRU5ErkJggg==' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed ;
+curl 'data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAEgAAABIAQMAAABvIyEEAAAABlBMVEUAAABTU1OoaSf/AAAAAXRSTlMAQObYZgAAAGxJREFUeF7tyMEJwkAQRuFf5ipMKxYQiJ3Z2nSwrWwBA0+DQZcdxEOueaePp9+dQZFB7GpUcURSVU66yVNFj6LFICatThZB6r/ko/pbRpUgilY0Cbw5sNmb9txGXUKyuH7eV25x39DtJXUNPQGJtWFV+BT/QAAAAABJRU5ErkJggg==' \
+  -H 'Referer: ' \
+  -H 'User-Agent: Mozilla/5.0 (X11; Linux aarch64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/88.0.4324.182 Safari/537.36' \
+  --compressed
